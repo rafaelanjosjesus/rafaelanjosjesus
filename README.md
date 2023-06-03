@@ -7,15 +7,6 @@
   
   <p align="center">
     I'm learning mobile programming, and soon I will be a mobile developer! I have one Youtube Channel too!
-    <a href="https://www.youtube.com/channel/UCbk2GVYw_IKNqIHFP4hLIjw" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://media.licdn.com/dms/image/D4D03AQEWeEiOqAAbTQ/profile-displayphoto-shrink_200_200/0/1679960205945?e=1691020800&v=beta&t=bXSS74FIWYr7jFK799qM-Trw71aFCHFU6vskzEcCip4" 
-           target="_blank" 
-      />
-    </a>  
   </p>
   
   <p align="center">
